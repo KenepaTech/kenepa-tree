@@ -1,17 +1,16 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <TreeBrowser />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import TreeBrowser from './components/TreeBrowser.vue';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    TreeBrowser,
   }
 }
 </script>
@@ -23,6 +22,7 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  margin-top: 0px;
+  height: 100vh;
 }
 </style>
