@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <TreeBrowser />
+    <TreeBrowser v-bind:resource_url="'https://raw.githubusercontent.com/KenepaTech/kenepa-tree/main/data/kenepa_resources_nested.json'" />
   </div>
 </template>
 
