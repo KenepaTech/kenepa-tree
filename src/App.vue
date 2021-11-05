@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <Sidebar />
-    <TreeBrowser v-bind:resource_url="'https://raw.githubusercontent.com/KenepaTech/kenepa-tree/main/data/kenepa_resources_nested.json'" />
+    <TreeBrowser v-bind:resource_url="'https://raw.githubusercontent.com/KenepaTech/kenepa-tree/add-resources/data/resources.json'" />
   </div>
 </template>
 
