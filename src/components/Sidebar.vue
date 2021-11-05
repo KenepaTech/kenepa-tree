@@ -13,8 +13,8 @@
                 <div class="p-1">
                     <div class="block">
                     <img
-                        src="https://raw.githubusercontent.com/buefy/buefy/dev/static/img/buefy-logo.png"
-                        alt="Lightweight UI components for Vue.js based on Bulma"
+                        src="../assets/kenepa_logo_text.png"
+                        alt="Kenepa Logo with text"
                     />
                     </div>
                     <b-menu class="is-custom-mobile">
