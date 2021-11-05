@@ -1,34 +1,29 @@
 {
-  "name": "Resources",
+  "name": "Programming Languages",
   "children": [
     {
-      "name": "Programming Languages",
+      "name": "Rust",
       "children": [
         {
-          "name": "Rust",
+          "name": "Books",
           "children": [
             {
-              "name": "Books",
-              "children": [
-                {
-                  "name": "Rust by Example",
-                  "url": "https://doc.rust-lang.org/rust-by-example/"
-                }
-              ]
+              "name": "Rust by Example",
+              "url": "https://doc.rust-lang.org/rust-by-example/"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "name": "Ruby",
+      "children": [
         {
-          "name": "Ruby",
+          "name": "Books",
           "children": [
             {
-              "name": "Books",
-              "children": [
-                {
-                  "name": "Ruby YAML Cookbook",
-                  "url": "https://yaml.org/YAML_for_ruby.html"
-                }
-              ]
+              "name": "Ruby YAML Cookbook",
+              "url": "https://yaml.org/YAML_for_ruby.html"
             }
           ]
         }
