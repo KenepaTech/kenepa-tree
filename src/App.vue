@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <Sidebar />
-    <TreeBrowser v-bind:resource_url="'https://raw.githubusercontent.com/KenepaTech/kenepa-tree/sidebar/data/prog_lang_resources.json'" />
+    <Navbar />
+    <TreeBrowser v-bind:resource_url="'https://raw.githubusercontent.com/KenepaTech/kenepa-tree/add-resources/data/resources.json'" />
   </div>
 </template>
 
@@ -11,7 +11,7 @@ import Buefy from 'buefy';
 import 'buefy/dist/buefy.css';
 
 import TreeBrowser from './components/TreeBrowser.vue';
-import Sidebar from './components/Sidebar.vue';
+import Navbar from './components/Navbar.vue';
 
 Vue.use(Buefy)
 
@@ -19,7 +19,7 @@ export default {
   name: 'App',
   components: {
     TreeBrowser,
-    Sidebar,
+    Navbar,
   }
 }
 </script>
