@@ -1,0 +1,32 @@
+{
+  "children": [
+    {
+      "name": "Rust",
+      "children": [
+        {
+          "name": "Books",
+          "children": [
+            {
+              "name": "Rust by Example",
+              "url": "https://doc.rust-lang.org/rust-by-example/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ruby",
+      "children": [
+        {
+          "name": "Books",
+          "children": [
+            {
+              "name": "Ruby YAML Cookbook",
+              "url": "https://yaml.org/YAML_for_ruby.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
