@@ -1,5 +1,12 @@
 <template>
-  <tree :data="tree" node-text="name" layoutType="horizontal" v-if="dataLoaded"> </tree>
+  <tree
+    ref="ktree"
+    :data="tree"
+    node-text="name"
+    layoutType="horizontal"
+    v-if="dataLoaded"
+  >
+  </tree>
 </template>
 
 <script>
@@ -13,16 +20,26 @@ export default {
   },
 
   props: {
-      resource_url: String,
+    resource_url: String,
   },
 
   async mounted() {
-    const data = await json(
-      this.resource_url
-    );
+    const data = await json(this.resource_url);
     this.dataset = Object.freeze(data);
-    this.dataLoaded = true
-    this.tree = this.dataset
+    this.dataLoaded = true;
+    this.tree = this.dataset;
+
+    // Wait for next tick to ensure refs are loaded
+    this.$nextTick(() => {
+      this.$refs.ktree.$on("clickedText", (payload) => {
+        const resource_url = payload.data.url;
+
+        // Only navigate if a url is associated w/ the node
+        if (resource_url) {
+          window.location.href = resource_url;
+        }
+      });
+    });
   },
 
   data() {
