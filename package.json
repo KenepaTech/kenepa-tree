@@ -11,18 +11,21 @@
     "buefy": "^0.9.11",
     "core-js": "^3.6.5",
     "d3": "^7.1.1",
-    "d3-collection": "^1.0.7",
-    "d3-fetch": "^3.0.1",
     "vue": "^2.6.11",
+    "vue-router": "^3.2.0",
     "vued3tree": "^5.1.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
+    "node-sass": "^6.0.1",
+    "sass": "^1.43.4",
+    "sass-loader": "^10.2.0",
     "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
