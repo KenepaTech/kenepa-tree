@@ -5,43 +5,43 @@
             "children": [
                 {
                     "name": "Ruby",
-                    "url": "http://rubykoans.com/ \"Learn Ruby with the Edgecase Ruby Koans\""
+                    "url": "http://rubykoans.com/ "
                 },
                 {
                     "name": "Yaml Cookbook",
-                    "url": "https://yaml.org/YAML_for_ruby.html \"The Yaml Cookbook for Ruby\""
+                    "url": "https://yaml.org/YAML_for_ruby.html "
                 },
                 {
                     "name": "Rust",
-                    "url": "https://doc.rust-lang.org/rust-by-example/index.html \"Learn Rust by Example\""
+                    "url": "https://doc.rust-lang.org/rust-by-example/index.html "
                 },
                 {
                     "name": "WiFi Door Unlocker",
-                    "url": "https://hackaday.io/project/1992-wifi-door-unlocker \"WiFi door unlocker\""
+                    "url": "https://hackaday.io/project/1992-wifi-door-unlocker "
                 },
                 {
                     "name": "PyTorch",
-                    "url": "https://pytorch.org/tutorials/beginner/basics/intro.html \"Pytorch basics\""
+                    "url": "https://pytorch.org/tutorials/beginner/basics/intro.html "
                 },
                 {
                     "name": "Ln Command in Linux",
-                    "url": "https://linuxize.com/post/how-to-create-symbolic-links-in-linux-using-the-ln-command/ \"Ln Command in Linux (Create Symbolic Links)\""
+                    "url": "https://linuxize.com/post/how-to-create-symbolic-links-in-linux-using-the-ln-command/ "
                 },
                 {
                     "name": "ML for beginners",
-                    "url": "https://github.com/microsoft/ML-For-Beginners \"For whoever wants to get into ML for some reason.\""
+                    "url": "https://github.com/microsoft/ML-For-Beginners "
                 },
                 {
                     "name": "Airpods Pro on Ubuntu 20.04",
-                    "url": "https://reckoning.dev/blog/airpods-pro-ubuntu/ \"If you ever find yourself needing noise-cancelling on an ubuntu device and you left your sony at home\""
+                    "url": "https://reckoning.dev/blog/airpods-pro-ubuntu/ "
                 },
                 {
                     "name": "Monte Carlo Tree Search",
-                    "url": "https://int8.io/monte-carlo-tree-search-beginners-guide/ \"Monte Carlo Tree Search\""
+                    "url": "https://int8.io/monte-carlo-tree-search-beginners-guide/ "
                 },
                 {
                     "name": "MySQL on Ubuntu 20.04",
-                    "url": "https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04 \"How To Install MySQL on Ubuntu 20.04\""
+                    "url": "https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04 "
                 }
             ]
         },
@@ -50,15 +50,15 @@
             "children": [
                 {
                     "name": "TechWorld with Nana",
-                    "url": "https://www.youtube.com/c/TechWorldwithNana/videos \"Devops Simply Explained\""
+                    "url": "https://www.youtube.com/c/TechWorldwithNana/videos "
                 },
                 {
                     "name": "My 2021 Comprehensive Obsidian Zettelkasten Workflow",
-                    "url": "https://www.youtube.com/watch?v=wB89lJs5A3s \"4hrs of productivity related tools and techiques\""
+                    "url": "https://www.youtube.com/watch?v=wB89lJs5A3s "
                 },
                 {
                     "name": "How to use NEW Dark Mode in Microsoft Word",
-                    "url": "https://www.youtube.com/watch?v=EUp7clOLqQE \"How to use NEW Dark Mode in Microsoft Word\""
+                    "url": "https://www.youtube.com/watch?v=EUp7clOLqQE "
                 }
             ]
         },
@@ -67,11 +67,11 @@
             "children": [
                 {
                     "name": "Type Terms",
-                    "url": "https://www.supremo.co.uk/typeterms/ \"The animated typographic cheat sheet.\""
+                    "url": "https://www.supremo.co.uk/typeterms/ "
                 },
                 {
                     "name": "Vim Cheat Sheet",
-                    "url": "https://vim.rtorr.com/ \"Vim Cheat Sheet\""
+                    "url": "https://vim.rtorr.com/ "
                 }
             ]
         },
@@ -80,15 +80,15 @@
             "children": [
                 {
                     "name": "The GitHub Blog",
-                    "url": "https://github.blog/2020-10-14-how-we-open-sourced-docs-github-com/ \"The GitHub Blog\""
+                    "url": "https://github.blog/2020-10-14-how-we-open-sourced-docs-github-com/ "
                 },
                 {
                     "name": "Continuous Documentation in Python",
-                    "url": "https://atymo.me/ \"Continuous Documentation in Python\""
+                    "url": "https://atymo.me/ "
                 },
                 {
                     "name": "Understand Legacy Code",
-                    "url": "https://understandlegacycode.com/ \"Changing Legacy Code Without Breaking It\""
+                    "url": "https://understandlegacycode.com/ "
                 },
                 {
                     "name": "Django for Startup Founders: A better software architecture for SaaS startups and consumer apps",
@@ -113,19 +113,19 @@
             "children": [
                 {
                     "name": "XGBoost Documentation",
-                    "url": "https://xgboost.readthedocs.io/en/latest/ \"XGBoost Documentation\""
+                    "url": "https://xgboost.readthedocs.io/en/latest/ "
                 },
                 {
                     "name": "Unity User Manual 2020.3 (LTS)",
-                    "url": "LTS)](https://docs.unity3d.com/Manual/index.html \"Unity User Manual 2020.3 (LTS)\""
+                    "url": "https://docs.unity3d.com/Manual/index.html "
                 },
                 {
                     "name": "Cg Standard Library",
-                    "url": "http://developer.download.nvidia.com/cg/index_stdlib.html \"Cg Standard Library Documentation\""
+                    "url": "http://developer.download.nvidia.com/cg/index_stdlib.html "
                 },
                 {
                     "name": "The documentation system",
-                    "url": "https://documentation.divio.com/ \"Pointers on  writing good software documentation\""
+                    "url": "https://documentation.divio.com/ "
                 }
             ]
         },
@@ -134,7 +134,7 @@
             "children": [
                 {
                     "name": "PDF of CIA and AAA Model",
-                    "url": "https://pmworldlibrary.net/wp-content/uploads/2017/05/171126-Nweke-Using-CIA-and-AAA-Models-to-explain-Cybersecurity.pdf \"Using the CIA and AAA Models to Explain Cybersecurity Activities\""
+                    "url": "https://pmworldlibrary.net/wp-content/uploads/2017/05/171126-Nweke-Using-CIA-and-AAA-Models-to-explain-Cybersecurity.pdf "
                 },
                 {
                     "name": "article of The Top Free Tools for Sysadmins in 2021",
@@ -156,7 +156,7 @@
             "children": [
                 {
                     "name": "Universe2021",
-                    "url": "https://www.githubuniverse.com/?false=120820&reg_type_id=120820 \"The global developer event\""
+                    "url": "https://www.githubuniverse.com/?false=120820&reg_type_id=120820 "
                 }
             ]
         },
@@ -169,63 +169,63 @@
                 },
                 {
                     "name": "Robert C. Martin - Clean Code",
-                    "url": "https://cdn.discordapp.com/attachments/590502565465161728/590503889707597844/r_clean_code.pdf \"Robert C. Martin - Clean Code\""
+                    "url": "https://cdn.discordapp.com/attachments/590502565465161728/590503889707597844/r_clean_code.pdf "
                 },
                 {
                     "name": "Thomas H. Cormen - Introduction to Algorithms",
-                    "url": "https://cdn.discordapp.com/attachments/590502565465161728/590604135104118962/Introduction_to_Algorithms.pdf \"Thomas H. Cormen - Introduction to Algorithms\""
+                    "url": "https://cdn.discordapp.com/attachments/590502565465161728/590604135104118962/Introduction_to_Algorithms.pdf "
                 },
                 {
                     "name": "Sutton & Barto - Reinforcement Learning, an Introduction",
-                    "url": "http://incompleteideas.net/book/RLbook2018.pdf \"Reinforcement Learning, an Introduction - Sutton & Barto\""
+                    "url": "http://incompleteideas.net/book/RLbook2018.pdf "
                 },
                 {
                     "name": "Peter Gottschli - Discovering Modern C An Intensive Course for Scientists Engineers and Programmers",
-                    "url": "https://cdn.discordapp.com/attachments/590502565465161728/727646649739903047/Discovering_Modern_C_An_Intensive_Course_for_Scientists_Engineers_and_Programmers_by_Peter_Gottschli.pdf \"Peter Gottschli - Discovering Modern C An Intensive Course for Scientists Engineers and Programmers\""
+                    "url": "https://cdn.discordapp.com/attachments/590502565465161728/727646649739903047/Discovering_Modern_C_An_Intensive_Course_for_Scientists_Engineers_and_Programmers_by_Peter_Gottschli.pdf "
                 },
                 {
                     "name": "Steve Rabin, Series Editor - Game AI Pro 3",
-                    "url": "http://www.gameaipro.com/ \"Steve Rabin, Series Editor - Game AI Pro 3\""
+                    "url": "http://www.gameaipro.com/ "
                 },
                 {
                     "name": "Al Sweigart - Automate the Boring Stuff with Python Practical Programming for Total Beginners",
-                    "url": "https://cdn.discordapp.com/attachments/590502565465161728/741003650301821038/Automate_the_Boring_Stuff_with_Python_Practical_Programming_for_Total_Beginners_by_Al_Sweigart_z-lib.epub \"Al Sweigart - Automate the Boring Stuff with Python Practical Programming for Total Beginners\""
+                    "url": "https://cdn.discordapp.com/attachments/590502565465161728/741003650301821038/Automate_the_Boring_Stuff_with_Python_Practical_Programming_for_Total_Beginners_by_Al_Sweigart_z-lib.epub "
                 },
                 {
                     "name": "Tracy Fullerton - Game Design Workshop",
-                    "url": "https://b-ok.cc/book/3679458/656e19 \"Game Design Workshop | Tracy Fullerton\""
+                    "url": "https://b-ok.cc/book/3679458/656e19 "
                 },
                 {
                     "name": "Abraham Silberschatz, Greg Gagne, Peter B. Galvin - Operating System Concepts",
-                    "url": "https://b-ok.cc/book/3509014/456f35 \"Abraham Silberschatz, Greg Gagne, Peter B. Galvin - Operating System Concepts\""
+                    "url": "https://b-ok.cc/book/3509014/456f35 "
                 },
                 {
                     "name": "Douglas Crockford - Javascript The Good Parts 2008",
-                    "url": "https://cdn.discordapp.com/attachments/590502565465161728/765606152767406171/Douglas_Crockford_-_JavaScript__The_Good_Parts_2008.pdf \"Douglas Crockford - Javascript The Good Parts 2008\""
+                    "url": "https://cdn.discordapp.com/attachments/590502565465161728/765606152767406171/Douglas_Crockford_-_JavaScript__The_Good_Parts_2008.pdf "
                 },
                 {
                     "name": "Peter Norvig, Morgan Kaufmann - Paradigms artificial intelligence programming case studies in Common Lisp (1991)",
-                    "url": "1991)](https://icetimux.net/books/Peter%20Norvig%20-%20Paradigms%20of%20artificial%20intelligence%20programming_%20case%20studies%20in%20Common%20Lisp-Morgan%20Kaufmann%20(1991).pdf \"Old book incoming for any other Lisp hackers\""
+                    "url": "https://icetimux.net/books/Peter%20Norvig%20-%20Paradigms%20of%20artificial%20intelligence%20programming_%20case%20studies%20in%20Common%20Lisp-Morgan%20Kaufmann%20(1991).pdf "
                 },
                 {
                     "name": "William Kennedy, Brian Ketelsen, Erik St. Martin - Go in Action-Manning (2015)",
-                    "url": "2015)](https://icetimux.net/books/William%20Kennedy%20with%20Brian%20Ketelsen,%20Erik%20St.%20Martin%20-%20Go%20in%20Action-Manning%20(2015).pdf \"William Kennedy, Brian Ketelsen, Erik St. Martin - Go in Action (2015)\""
+                    "url": "https://icetimux.net/books/William%20Kennedy%20with%20Brian%20Ketelsen,%20Erik%20St.%20Martin%20-%20Go%20in%20Action-Manning%20(2015).pdf "
                 },
                 {
                     "name": "Caleb Doxsey - An Introduction to Programming in Go",
-                    "url": "https://cdn.discordapp.com/attachments/590502565465161728/767422124573982730/Caleb_Doxsey_-_An_Introduction_to_Programming_in_Go-CreateSpace_Independent_Publishing_Platform_2012.pdf \"Caleb Doxsey - An Introduction to Programming in Go\""
+                    "url": "https://cdn.discordapp.com/attachments/590502565465161728/767422124573982730/Caleb_Doxsey_-_An_Introduction_to_Programming_in_Go-CreateSpace_Independent_Publishing_Platform_2012.pdf "
                 },
                 {
                     "name": "Mark Sobkowicz - Learn Game Programming with Ruby_ Bring Your Ideas to Life with Gosu (2015)",
-                    "url": "2015)](https://drive.google.com/file/d/1lg7d88se3SjbfNfppcRSk41ooDIFAvEH/view?usp=sharing \"Mark Sobkowicz - Learn Game Programming with Ruby_ Bring Your Ideas to Life with Gosu (2015)\""
+                    "url": "https://drive.google.com/file/d/1lg7d88se3SjbfNfppcRSk41ooDIFAvEH/view?usp=sharing "
                 },
                 {
                     "name": "Will Kurt - Bayesian Statistics Fun Way Understanding",
-                    "url": "https://www.amazon.nl/Bayesian-Statistics-Fun-Way-Understanding/dp/1593279566/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr= \"Will Kurt - Bayesian Statistics Fun Way Understanding\""
+                    "url": "https://www.amazon.nl/Bayesian-Statistics-Fun-Way-Understanding/dp/1593279566/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr= "
                 },
                 {
                     "name": "Robert Nystrom - Game Programming Patterns",
-                    "url": "https://cdn.discordapp.com/attachments/590502565465161728/784382848416874496/Robert_Nystrom_-_game_programming_patterns-gb.pdf \"Robert Nystrom - Game Programming Patterns\""
+                    "url": "https://cdn.discordapp.com/attachments/590502565465161728/784382848416874496/Robert_Nystrom_-_game_programming_patterns-gb.pdf "
                 },
                 {
                     "name": "Andrew Hunt, David Hurst - The Pragmatic Programmer Your Journey to Mastery 20th Anniversary Edition",
@@ -233,7 +233,7 @@
                 },
                 {
                     "name": "Christer Ericson - Real-Time Collision Detection",
-                    "url": "http://www.r-5.org/files/books/computers/algo-list/realtime-3d/Christer_Ericson-Real-Time_Collision_Detection-EN.pdf \"real time collision detection techniques, and optimized algorithms\""
+                    "url": "http://www.r-5.org/files/books/computers/algo-list/realtime-3d/Christer_Ericson-Real-Time_Collision_Detection-EN.pdf "
                 },
                 {
                     "name": "Seth Weidman - Deep Learning From Scratch Building With Python From First Principles",
@@ -245,7 +245,7 @@
                 },
                 {
                     "name": "Eric Steven Raymond - The Art of Unix Programming",
-                    "url": "https://nakamotoinstitute.org/static/docs/taoup.pdf \"for all my unix bois & girls\""
+                    "url": "https://nakamotoinstitute.org/static/docs/taoup.pdf "
                 },
                 {
                     "name": "Refactoring Improving the Design of Existing Code",
@@ -265,19 +265,19 @@
                 },
                 {
                     "name": "AMNA RIAZ, HAFIZ FAROOQ AHMAD, ADNAN KHAILD KIANI, JUNAID QADIR, RAIHAN UR RASOOL AND USMAN YOUNIS - Intrusion Detection Systems in Cloud Computing:A Contemporary Review of Techniques and Solutions (paper)",
-                    "url": "paper)](https://openresearch.lsbu.ac.uk/download/910bd439fa85771ad642517b87c5e9a50ce1dbd2ace31650c510eea34f901798/725580/JISE_201703_02.pdf"
+                    "url": "https://openresearch.lsbu.ac.uk/download/910bd439fa85771ad642517b87c5e9a50ce1dbd2ace31650c510eea34f901798/725580/JISE_201703_02.pdf"
                 },
                 {
                     "name": "Andrew Lei - Quantum Computing Techniques for Machine Learning (Thesis)",
-                    "url": "Thesis)](https://comserv.cs.ut.ee/ati_thesis/datasheet.php?language=en"
+                    "url": "https://comserv.cs.ut.ee/ati_thesis/datasheet.php?language=en"
                 },
                 {
                     "name": "Pedro Nogueira - Motion Capture Fundamentals A Critical and Comparative Analysis on Real-World Applications (paper)",
-                    "url": "paper)](https://paginas.fe.up.pt/~prodei/dsie12/papers/paper_7.pdf"
+                    "url": "https://paginas.fe.up.pt/~prodei/dsie12/papers/paper_7.pdf"
                 },
                 {
                     "name": "Duc Phu Chau, François Bremond, Monique Thonnat - Object Tracking in Videos: Approaches and Issues (paper)",
-                    "url": "paper)](https://hal.inria.fr/hal-00815046/document"
+                    "url": "https://hal.inria.fr/hal-00815046/document"
                 },
                 {
                     "name": "procedural crowd generation",
@@ -285,11 +285,11 @@
                 },
                 {
                     "name": "Sebastien Lagarde, Sebastien Lachambre, Cyril Jover - An Artist-Friendly Workflow for Panoramic HDRI (paper)",
-                    "url": "paper)](https://blog.selfshadow.com/publications/s2016-shading-course/unity/s2016_pbs_unity_hdri_notes.pdf"
+                    "url": "https://blog.selfshadow.com/publications/s2016-shading-course/unity/s2016_pbs_unity_hdri_notes.pdf"
                 },
                 {
                     "name": "Tenney Bert - Rediscovers the Classical NLP Pipeline (2019)",
-                    "url": "2019)](https://cdn.discordapp.com/attachments/760148675707273227/773924282626867230/Tenney_2019_BERT_Rediscovers_the_Classical_NLP_Pipeline.pdf"
+                    "url": "https://cdn.discordapp.com/attachments/760148675707273227/773924282626867230/Tenney_2019_BERT_Rediscovers_the_Classical_NLP_Pipeline.pdf"
                 },
                 {
                     "name": "BERT",
@@ -297,7 +297,7 @@
                 },
                 {
                     "name": "O.Rogla, N.Pelechano, G.Patow - Procedural Crowd Generation for Semantically Augmented Virtual Cities (paper)",
-                    "url": "paper)](https://arxiv.org/abs/1811.10036"
+                    "url": "https://arxiv.org/abs/1811.10036"
                 }
             ]
         }
