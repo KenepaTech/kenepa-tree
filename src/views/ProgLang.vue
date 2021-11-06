@@ -1,5 +1,5 @@
 <template>
-    <TreeBrowser v-bind:resource_url="'https://raw.githubusercontent.com/KenepaTech/kenepa-tree/sidebar/data/prog_lang_resources.json'" />
+    <TreeBrowser v-bind:resource_url="'https://raw.githubusercontent.com/KenepaTech/kenepa-tree/main/data/prog_lang_resources.json'" />
 </template>
 
 <script>
