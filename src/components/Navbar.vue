@@ -2,15 +2,15 @@
   <b-navbar>
     <template #brand>
       <b-navbar-item tag="router-link" :to="{ path: '/' }">
-        <img
-          src="@/assets/kenepa_logo_text.png"
-          alt="Kenepa Logo with text."
-        />
+        <img src="@/assets/kenepa_logo_text.png" alt="Kenepa Logo with text." />
       </b-navbar-item>
     </template>
     <template #start>
       <b-navbar-item tag="router-link" :to="{ path: '/' }">
         Home
+      </b-navbar-item>
+      <b-navbar-item tag="router-link" :to="{ path: '/general' }">
+        General
       </b-navbar-item>
       <b-navbar-item tag="router-link" :to="{ path: '/proglang' }">
         Programming Languages

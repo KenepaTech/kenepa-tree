@@ -5,7 +5,8 @@
     node-text="name"
     layoutType="horizontal"
     v-if="dataLoaded"
-    zoomable=true
+    zoomable=false
+    duration=0
     style="max-width: 95%;max-height: 100vh"
   >
   </tree>
