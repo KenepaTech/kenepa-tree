@@ -1,15 +1,17 @@
 <template>
-  <tree
-    ref="ktree"
-    :data="tree"
-    node-text="name"
-    layoutType="horizontal"
-    v-if="dataLoaded"
-    zoomable=false
-    duration=0
-    style="max-width: 95%;max-height: 100vh"
-  >
-  </tree>
+  <div v-show="showTree">
+    <tree
+      ref="ktree"
+      :data="tree"
+      node-text="name"
+      layoutType="horizontal"
+      v-if="dataLoaded"
+      zoomable=false
+      :duration=750
+      style="max-width: 95%;max-height: 100vh"
+    >
+    </tree>
+  </div>
 </template>
 
 <script>
@@ -43,6 +45,9 @@ export default {
         }
       });
     });
+
+    // only show the Tree after the loading animation has elapsed.
+    setTimeout(() => { console.log("is Elon Musk een fraudeur?"); this.showTree = true }, this.animationDuration);
   },
 
   data() {
@@ -50,7 +55,12 @@ export default {
       dataset: {},
       tree: {},
       dataLoaded: false,
+      showTree: false,
+      animationDuration: 1000,
     };
   },
 };
 </script>
+
+<style scoped>
+</style>
