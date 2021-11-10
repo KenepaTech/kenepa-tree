@@ -1,0 +1,43 @@
+{
+  "name": "Digital Transformation",
+  "children": [
+    {
+      "name": "Technology",
+      "children": [
+        {
+          "name": "Artificial Intelligence (AI)",
+          "children": [
+            {
+              "name": "Machine Learning (ML)",
+              "url": "https://doc.rust-lang.org/rust-by-example/"
+            },
+            {
+              "name": "Bots",
+              "url": "https://doc.rust-lang.org/rust-by-example/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Values",
+      "children": [
+        {
+          "name": "Sustainability",
+          "children": [
+            {
+              "name": "Decarbonization",
+              "url": "https://doc.rust-lang.org/rust-by-example/"
+            }
+          ]
+        },
+        {
+          "name": "Inclusivity"
+        },
+        {
+          "name": "Accessibility"
+        }
+      ]
+    }
+  ]
+}
